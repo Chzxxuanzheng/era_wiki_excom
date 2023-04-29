@@ -1,10 +1,4 @@
-﻿<div style="display:none">
-
-这个东西是用MarkDown语法写的,当你看到这句话时说明你并没有以正确的方式打开,edge浏览器上有阅读MarkDown的插件,vscode也有阅读MarkDown的插件
-
-</div>
-
-# era basic excom汉化
+﻿# era basic excom汉化
 
 # 前言
 
