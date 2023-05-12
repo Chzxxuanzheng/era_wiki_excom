@@ -2187,7 +2187,7 @@ CASE条件有以下三种格式
 			PRINTL X是2或3.
 		CASE 10 TO 20
 			PRINTL X既不是1也不是2或3
-			PRINTL X在10以上20以下。
+			PRINTL X在10及以上20及以下。
 		CASE IS <= 30
 			PRINTL X不是1,2,3及10以上20以下的数
 			PRINTL X是30及以下的数
