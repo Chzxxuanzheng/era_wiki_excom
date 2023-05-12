@@ -1860,7 +1860,7 @@ RESULT:0有一下情况,值为0的时候可以读取
 INT变量是不能省略的
 
 <br/>
-<h4 id="7.7.><font color=MediumBlue>7.7.SAVEGLOBAL</font></h4>
+<h4 id="7.6"><font color=MediumBlue>7.6 SAVEGLOBAL</font></h4>
 
 保存变量GLOBAL和GLOBALS.保存到"glover.sav"中
 如果在ERH文件中定义了具有GLOBAL和SAVEDATA标志的变量,也会保存他们
